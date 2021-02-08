@@ -1,5 +1,0 @@
----
-deployment:
-  tasks:
-    - export DEPLOYPATH=/home/webeffro/testing.webeff.ro
-    - /bin/cp -R * $DEPLOYPATH
